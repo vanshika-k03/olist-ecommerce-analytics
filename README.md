@@ -457,13 +457,14 @@ Focuses on:
 ## 📊 Dashboard Preview
 
 ### 1. Executive Performance
-![Executive Performance Dashboard](screenshots/executive_overview.png)
+![Executive Performance Dashboard](screenshot/executive_overview.png.png)
 
 ### 2. Customer Value & Repeat Behavior
-![Customer Value Dashboard](screenshots/customer_value.png)
+![Customer Value Dashboard](screenshot/customer_value.png.png)
 
 ### 3. Operations & Customer Experience
-![Operations Dashboard](screenshots/operations.png)
+![Operations Dashboard](screenshot/operations.png.png)
+
 ---
 
 # 16. Key Findings
