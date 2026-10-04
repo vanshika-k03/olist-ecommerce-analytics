@@ -21,7 +21,7 @@
 | **Database**           | PostgreSQL                                                 |
 | **Programming**        | Python, Pandas, NumPy                                      |
 | **BI & Visualization** | Power BI, DAX                                              |
-| **Key Areas**          | Sales, customers, RFM, sellers, delivery, reviews, freight |
+| **Key Areas**          | Sales, customers, RFM, sellers, delivery, reviews |
 | **Final Output**       | SQL analytical views + Power BI dashboard                  |
 
 > **Note:** The dataset begins and ends in incomplete calendar periods. Therefore, the analysis does not treat 2016–2018 as three complete calendar years.
@@ -71,7 +71,6 @@ This project addresses questions such as:
 * Which high-value customers have become inactive within the observed dataset?
 * How does seller performance vary across volume, GMV, AOV, and delivery reliability?
 * What relationship can be observed between delivery performance and review scores?
-* How significant is freight relative to product GMV?
 
 ---
 
@@ -122,7 +121,6 @@ Analyze:
 * Late delivery
 * Seller performance
 * Review scores
-* Freight burden
 
 This connects commercial performance with operational execution and observed customer experience.
 
